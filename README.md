@@ -16,7 +16,22 @@ netflix-data-cleaning/
 ├── Python code for cleaning and preprocessing.py    # Full Python cleaning script
 ├── README.md                                        # Project documentation
 └── requirements.txt                                 # Python dependencies
- 
+ ## Repository Structure
+
+```text
+netflix-data-cleaning/
+│── Datasets/
+│   ├── netflix1.csv
+│   ├── netflix_cleaned.csv
+│   └── netflix_cleaned.xlsx
+│
+│── screenshots/
+│
+│── cleaning_and_preprocessing.py
+│── README.md
+│── requirements.txt
+```
+
 ## 📊 Dataset Information
 
 | Property |             | Details |
