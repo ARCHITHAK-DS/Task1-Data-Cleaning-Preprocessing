@@ -146,7 +146,7 @@ openpyxl
 output screenshots are available in the `screenshots/` folder, covering each cleaning stage from raw data to final output.
 
 
-## 🔍 Project Outcome
+## 🔍 Outcome
 
 The Netflix dataset was successfully cleaned and preprocessed using both **Excel** and **Python (Pandas)**. The final dataset is:
 
