@@ -14,15 +14,15 @@ netflix-data-cleaning/
 ├── Datasets                                         # Includes Uncleaned & Cleaned dataset
 ├── screenshots/                                     # output screenshots 
 ├── Python code for cleaning and preprocessing.py    # Full Python cleaning script
-├── requirements.txt                                 # Python dependencies
-└── README.md                                        # Project documentation
+├── README.md                                        # Project documentation
+└── requirements.txt                                 # Python dependencies
  
 ## 📊 Dataset Information
 
 | Property |             | Details |
 |----------|             |---------|
-| **Dataset** |          | Netflix Movies and TV Shows |
-| **Source** |           |[Kaggle — Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows) |
+| **Dataset** |          | Netflix Data |
+| **Source** |           |[Kaggle — https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization/data |
 | **Original Shape** |   | 8,790 rows × 10 columns |
 | **Final Shape** |      |8,790 rows × 14 columns |
 
