@@ -14,6 +14,7 @@ netflix-data-cleaning/
 ├── Datasets                                         # Includes Uncleaned & Cleaned dataset
 ├── screenshots/                                     # output screenshots 
 ├── Python code for cleaning and preprocessing.py    # Full Python cleaning script
+├── Python_code_output.py                            # Python output
 ├── README.md                                        # Project documentation
 └── requirements.txt                                 # Python dependencies
 ```
