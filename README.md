@@ -8,7 +8,7 @@ The objective was to transform raw, messy data into a **clean, structured, and a
 
 
 ## 📂 Repository Structure
-
+```text
 netflix-data-cleaning/
 │
 ├── Datasets                                         # Includes Uncleaned & Cleaned dataset
@@ -16,34 +16,20 @@ netflix-data-cleaning/
 ├── Python code for cleaning and preprocessing.py    # Full Python cleaning script
 ├── README.md                                        # Project documentation
 └── requirements.txt                                 # Python dependencies
- ## Repository Structure
-
-```text
-netflix-data-cleaning/
-│── Datasets/
-│   ├── netflix1.csv
-│   ├── netflix_cleaned.csv
-│   └── netflix_cleaned.xlsx
-│
-│── screenshots/
-│
-│── cleaning_and_preprocessing.py
-│── README.md
-│── requirements.txt
 ```
 
 ## 📊 Dataset Information
-
+```text
 | Property |             | Details |
 |----------|             |---------|
 | **Dataset** |          | Netflix Data |
 | **Source** |           |[Kaggle — https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization/data |
 | **Original Shape** |   | 8,790 rows × 10 columns |
 | **Final Shape** |      |8,790 rows × 14 columns |
-
+```
 
 ## 🛠️ Tools & Technologies
-
+```text
 | Tool |              | Purpose |
 |-----------------|   |--------------------------------------|
 | Microsoft Excel |   |Initial exploration and manual cleaning |
@@ -51,7 +37,7 @@ netflix-data-cleaning/
 | Pandas |            | Data manipulation and transformation |
 | NumPy |             | Numerical operations |
 | Regex (`re`) |      | Pattern-based text cleaning |
-
+```
 
 ## 🧹 Data Cleaning & Preprocessing Steps
 
@@ -109,7 +95,7 @@ tv show  →  Tv Show
 
 
 ## ✅ Results Summary
-
+```text
 | Metric |                | Before Cleaning |   | After Cleaning |
 |--------|                |-----------------|   |----------------|
 | Shape |                 |8,790 × 10 |         | 8,790 × 14 |
@@ -118,7 +104,7 @@ tv show  →  Tv Show
 | Date Format |           |Inconsistent |       |DD-MM-YYYY |
 | Duration |              |Single column |      |Split into 2 columns |
 | Genre Count |           | Not available |     | Engineered feature added |
-
+```
 
 ## ⚙️ Setup & Usage
 
